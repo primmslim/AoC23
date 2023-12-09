@@ -1,0 +1,15 @@
+/Users/codyodonnell/Code/Advent2023/day6/bin/Debug/net8.0/day6
+/Users/codyodonnell/Code/Advent2023/day6/bin/Debug/net8.0/day6.deps.json
+/Users/codyodonnell/Code/Advent2023/day6/bin/Debug/net8.0/day6.runtimeconfig.json
+/Users/codyodonnell/Code/Advent2023/day6/bin/Debug/net8.0/day6.dll
+/Users/codyodonnell/Code/Advent2023/day6/bin/Debug/net8.0/day6.pdb
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.AssemblyInfoInputs.cache
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.AssemblyInfo.cs
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.csproj.CoreCompileInputs.cache
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.sourcelink.json
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.dll
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/refint/day6.dll
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.pdb
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/day6.genruntimeconfig.cache
+/Users/codyodonnell/Code/Advent2023/day6/obj/Debug/net8.0/ref/day6.dll

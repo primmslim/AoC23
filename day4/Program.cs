@@ -17,19 +17,13 @@ for (int i = 0; i < games.Length; i++)
 
     int wins = myNumbers.Intersect(winningNumbers).Count();
 
-   // if (wins == 0) games[i].plays = 0;
-
-
     for (int j = 0; j < games[i].plays; j++)
     {
         for (int k = 0; k < wins; k++)
         {
             games[i+k+1].plays += 1;
-            
         }
     }
-
-    
 }
 
 System.Console.WriteLine(games.Sum(g => g.plays));

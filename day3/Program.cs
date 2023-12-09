@@ -5,6 +5,7 @@ var lines = File.ReadAllLines("p1.txt");
 
 var Parts = new List<(int row, int col, string val)>();
 
+
 for (int i = 0; i < lines.Length; i++)
 {
     string line = lines[i];
@@ -46,8 +47,6 @@ foreach(var symbol in symbols){
                                     .Aggregate((a,m) =>  a * m);
             totalPower += ratio;
         }
-  
-
     
 }
 
